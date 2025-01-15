@@ -5,7 +5,6 @@ permalink: /collections/pixel-cat-warriors/
 ---
 
 <div style="text-align: center;">
-
 <img src="./main_collection.png" alt="Pixel Cat Warriors Main Image" style="max-width: 600px; width: 100%; height: auto;">
 
 # Pixel Cat Warriors (WRRCAT)
@@ -15,6 +14,7 @@ Welcome to the world of Pixel Cat Warriors - where feline heroes meet classic RP
 ## About The Collection
 
 Pixel Cat Warriors is a limited collection of 100 uniquely generated warrior cats, each crafted with meticulous attention to retro gaming aesthetics. Drawing inspiration from legendary RPGs like Dragon Quest and Secret of Mana, each warrior cat comes with distinct traits and abilities that harken back to the golden age of pixel art gaming.
+</div>
 
 ## Collection Details
 
@@ -70,6 +70,6 @@ Our collection features:
 - 16x16 or 32x32 grid-based designs
 - Classic NES/SNES aesthetic
 
-</div>
+
 
 *Note: This is part of the ZombCat NFT Collection series on the Stargaze blockchain.*
