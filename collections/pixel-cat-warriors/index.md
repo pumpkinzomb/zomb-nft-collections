@@ -1,9 +1,12 @@
 ---
-layout: page
+layout: default
 title: Pixel Cat Warriors
+permalink: /collections/pixel-cat-warriors/
 ---
 
-![Pixel Cat Warriors Main Image](./main_collection.png)
+<div style="text-align: center;">
+
+<img src="./main_collection.png" alt="Pixel Cat Warriors Main Image" style="max-width: 600px; width: 100%; height: auto;">
 
 # Pixel Cat Warriors (WRRCAT)
 
@@ -67,5 +70,6 @@ Our collection features:
 - 16x16 or 32x32 grid-based designs
 - Classic NES/SNES aesthetic
 
+</div>
 
 *Note: This is part of the ZombCat NFT Collection series on the Stargaze blockchain.*
