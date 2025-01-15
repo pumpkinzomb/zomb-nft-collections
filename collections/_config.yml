@@ -1,18 +1,7 @@
 title: Zomb NFT Collections
 description: Collection details for Zomb NFT projects
 baseurl: "/zomb-nft-collections"
-url: ""
+url: "https://pumpkinzomb.github.io"
 
-# Build settings
-markdown: kramdown
-theme: minima # 기본 테마 사용
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
-
-# Exclude from processing
-exclude:
-  - Gemfile
-  - Gemfile.lock
-  - node_modules/
-  - vendor/
+markdown: GFM
+theme: jekyll-theme-minimal
