@@ -1,0 +1,36 @@
+name: Deploy GitHub Pages
+
+on:
+  push:
+    branches:
+      - main # main 브랜치에 푸시가 발생하면 실행
+    paths:
+      - "collections/**" # collections 폴더 내용이 변경될 때만 실행
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Setup Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: "3.0"
+          bundler-cache: true
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v2
+
+      - name: Build with Jekyll
+        run: |
+          cd collections
+          gem install bundler jekyll
+          jekyll build --destination ../public
+
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./public
+          keep_files: true # 기존 파일 유지
