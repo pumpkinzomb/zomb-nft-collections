@@ -3,10 +3,5 @@ description: Collection details for Zomb NFT projects
 baseurl: "/zomb-nft-collections"
 url: "https://pumpkinzomb.github.io"
 
-remote_theme: "pages-themes/cayman"
-
 markdown: GFM
-
-plugins:
-  - jekyll-remote-theme
-  - jekyll-seo-tag
+theme: jekyll-theme-minimal
