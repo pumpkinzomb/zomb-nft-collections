@@ -10,7 +10,9 @@ body {
 
 a {
   color: #ff7043;
-  &:hover {
+  &:hover,
+  &:visited,
+  &:active {
     color: #f4511e;
   }
 }

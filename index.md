@@ -10,6 +10,7 @@ Welcome to the official documentation hub for ZombCat NFT Collections on the Sta
 ## Available Collections
 
 - [Pixel Cat Warriors](./collections/pixel-cat-warriors) - Retro-style pixel art cat warriors collection
+- [Vampire Ladies](./collections/vampire-ladies) - Elegant vampire noble ladies collection in Japanese anime style
 
 ## About
 
