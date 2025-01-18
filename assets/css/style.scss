@@ -1,0 +1,42 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+body {
+  background-color: #ffffff;
+  color: #2d2d2d;
+}
+
+a {
+  color: #ff7043;
+  &:hover {
+    color: #f4511e;
+  }
+}
+
+header {
+  background-color: #fafafa;
+  border-right: 1px solid #e0e0e0;
+}
+
+section {
+  color: #2d2d2d;
+}
+
+.wrapper section a {
+  color: #ff7043;
+  &:hover {
+    color: #f4511e;
+    text-decoration: none;
+  }
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: #1a1a1a;
+}
