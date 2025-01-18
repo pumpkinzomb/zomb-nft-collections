@@ -3,26 +3,10 @@ description: Collection details for Zomb NFT projects
 baseurl: "/zomb-nft-collections"
 url: "https://pumpkinzomb.github.io"
 
-# 새로운 테마 적용
-remote_theme: "mmistakes/minimal-mistakes"
+remote_theme: "pages-themes/cayman"
+
 markdown: GFM
 
-# 추가 설정
-minimal_mistakes_skin: "dark" # dark 테마 사용
-search: true # 검색 기능 활성화
-
-# 플러그인 추가
 plugins:
   - jekyll-remote-theme
-  - jekyll-include-cache
   - jekyll-seo-tag
-
-# 사이트 설정
-defaults:
-  - scope:
-      path: ""
-      type: pages
-    values:
-      layout: single
-      classes: wide
-      author_profile: false
