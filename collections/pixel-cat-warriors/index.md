@@ -70,6 +70,9 @@ Our collection features:
 - 16x16 or 32x32 grid-based designs
 - Classic NES/SNES aesthetic
 
+## View Collection
 
+- **Mint NFTs**: [Mint on Stargaze](https://www.stargaze.zone/l/pixelcatwarriors)
+- **Browse Collection**: [View on Stargaze Marketplace](https://www.stargaze.zone/m/pixelcatwarriors/tokens)
 
 *Note: This is part of the ZombCat NFT Collection series on the Stargaze blockchain.*
