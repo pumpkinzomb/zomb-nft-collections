@@ -19,7 +19,7 @@ Pixel Cat Warriors is a limited collection of 100 uniquely generated warrior cat
 ## Collection Details
 
 - **Total Supply**: 100 unique NFTs
-- **Mint Price**: 2,000 STARS
+- **Mint Price**: 1,000 STARS
 - **Mint Limit**: 8 NFTs per address
 - **Blockchain**: Stargaze
 - **Token Symbol**: WRRCAT
