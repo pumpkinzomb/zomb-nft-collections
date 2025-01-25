@@ -5,7 +5,7 @@ permalink: /collections/vampire-ladies/
 ---
 
 <div style="text-align: center;">
-<img src="./collection.png" alt="Vampire Ladies Main Collection Image" style="max-width: 600px; width: 100%; height: auto;">
+<img src="./collection.gif" alt="Vampire Ladies Main Collection Image" style="max-width: 600px; width: 100%; height: auto;">
 
 # Vampire Ladies (VMPLDY)
 
