@@ -19,8 +19,8 @@ Vampire Ladies presents an exquisite gallery of 1,000 uniquely crafted portraits
 ## Collection Details
 
 - **Total Supply**: 1,000 unique NFTs
-- **Mint Price**: 500 STARS
-- **Mint Limit**: 8 NFTs per address
+- **Mint Price**: 5.5 OSMO
+- **Mint Limit**: 50 NFTs per address
 - **Blockchain**: Stargaze
 - **Token Symbol**: VMPLDY
 
