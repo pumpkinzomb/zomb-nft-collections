@@ -106,6 +106,11 @@ Each portrait in this collection offers a glimpse into the mysterious world of v
 
 Some carry the serene dignity of ancient bloodlines, while others emanate a more enigmatic charm. From the ethereally beautiful to the darkly alluring, each portrait captures a different facet of vampire nobility.
 
+## View Collection
+
+- **Mint NFTs**: [Mint on Stargaze](https://www.stargaze.zone/l/vampireladies)
+- **Browse Collection**: [View on Stargaze Marketplace](https://www.stargaze.zone/m/vampireladies/tokens)
+
 *Note: This is part of the ZombCat NFT Collection series on the Stargaze blockchain.*
 
 ## About the Creator
